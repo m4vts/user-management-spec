@@ -41,4 +41,6 @@ Designing the user list component and making checks.
     1. The column consists of values of "true" or "false."
     2. True values should be displayed on top by default. When the filter button is clicked, the ordering should change.
     3. When Hide Disabled User checkbox in the header of the page is checked, users with an enabled value of false should not be displayed.
+### Component Prototype:
+![Screen Shot 2022-05-16 at 12 32 1 (2)](https://user-images.githubusercontent.com/51910678/168863784-0a2fc61a-b542-465f-9a57-163c442a333a.png)
 
